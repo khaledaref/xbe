@@ -13,7 +13,7 @@ To see the project [Click here](https://khaledaref.github.io/xbe/)
 
 ### Image for the project :rose:
 
-<img src ="img/xbe.png" width="250px" heighet="250px">
+<img src ="img/xbe.png" width="320px" heighet="400px">
 
 
 
